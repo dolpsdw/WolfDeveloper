@@ -1,18 +1,13 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="App.xaml.cs" company="Wolf">
+// <copyright file="Structs.cs" company="Wolf">
 //   Jesús González Gómez
 // </copyright>
 // <summary>
-//   Lógica de interacción para App.xaml
+//   Structs definition file
+//   for Models namespace
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace WolfDeveloper
+namespace Models
 {
-    /// <summary>
-    /// App xml
-    /// </summary>
-    public partial class App
-    {
-    }
 }
